@@ -1,0 +1,15 @@
+____________XYZ AirLines___________
+______________Tickets_____________
+__________________________________
+
+Customer ID : 11
+
+Customer Name : Sheharyar
+
+Customer Gender : Adda
+	 Description : 
+
+
+ Destination 		Dubai
+
+ Flight Cost : 		34000
